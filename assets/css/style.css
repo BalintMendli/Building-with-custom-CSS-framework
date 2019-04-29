@@ -5,3 +5,11 @@
 .title {
   width: 200px;
 }
+
+.tile {
+  height: 165px;
+}
+
+.gradient {
+  background-image: linear-gradient(to bottom, #fff, #eee);
+}
