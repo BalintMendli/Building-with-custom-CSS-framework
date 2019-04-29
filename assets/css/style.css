@@ -13,3 +13,7 @@
 .gradient {
   background-image: linear-gradient(to bottom, #fff, #eee);
 }
+
+footer .title {
+  width: 160px;
+}
